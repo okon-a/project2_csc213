@@ -1,0 +1,5 @@
+/usercode/src/test/java/edu/canisius/csc312/project2/ControllerTest.java
+/usercode/src/test/java/edu/canisius/csc312/project2/quotes/StockQuoteTest.java
+/usercode/src/test/java/edu/canisius/csc312/project2/DirectoryExistenceTest.java
+/usercode/src/test/java/edu/canisius/csc312/project2/util/PolygonJsonReplyTranslatorTest.java
+/usercode/src/test/java/edu/canisius/csc312/project2/quotes/RestEndpointUrlCreationTest.java

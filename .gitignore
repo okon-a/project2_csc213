@@ -1,0 +1,6 @@
+/usercode/mvn_apache_executables/
+/usercode/.m2/
+/usercode/.vscode/
+/usercode/target/
+.envrc
+.direnv/
